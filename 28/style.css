@@ -85,14 +85,23 @@
 }
 
 .hometab{
-  width: 1300px;
-  margin-left: 0px;
+  color: #fff;
 }
 
 .musictab img{
-  width: 300px;
+  width: 1400px;
   height: 100%;
-  margin-left: 700px;
+  margin-left: 00px;
+}
+
+.fromtab img{
+  width: 1200px;
+  height: 100%;
+}
+
+.fromtab{
+  color: #fff;
+  background-color: black;
 }
 
 .drawer-content{
@@ -113,3 +122,35 @@ body{
   color: #fff;
 }
 
+.bard{
+  display: flex;
+  padding:  10px;
+  width: 100%;
+}
+
+.bard img{
+  width: 600px;
+}
+
+.hoddytab{
+  color: #fff;
+}
+
+.foodtab{
+  color: #fff;
+}
+.foto img{
+  width: 500px;
+}
+
+.boasttab{
+  color: #fff;
+}
+
+.aaa{
+  width: 200px;
+}
+
+.yyy{
+  color: #fff;
+}
